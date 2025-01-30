@@ -17,7 +17,7 @@ const navigation = [
 </script>
 
 <template>
-  <Disclosure as="nav" class="bg-red-800" v-slot="{ open }">
+  <Disclosure as="nav" class="bg-purple-800" v-slot="{ open }">
     <div class="mx-auto pr-5 pl-5 ">
       <div class="relative flex h-16 items-center justify-between">
         <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
