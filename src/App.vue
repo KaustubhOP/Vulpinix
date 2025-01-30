@@ -92,8 +92,8 @@ const navigation = [
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/Read">Read</RouterLink>
+        <RouterLink to="/about">About</RouterLink>         
+        <RouterLink to="/Read">Read this files</RouterLink>
       </nav>
     </div>
   </header>
